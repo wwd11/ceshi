@@ -1,0 +1,9 @@
+<!--tele2grab-->
+<!--SPARK技术讨论与反馈群：8346256-->
+<launch>
+  
+    
+  <!--UARM机械臂-->
+  <include file="$(find swiftpro)/launch/pro_control_nomoveit.launch"/>
+
+</launch>
